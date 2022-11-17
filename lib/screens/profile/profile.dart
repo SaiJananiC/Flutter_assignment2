@@ -31,7 +31,7 @@ class _ProfileState extends State<Profile> {
                 style: TextStyle(
                   fontSize: 36.0,
                   color: Colors.blue,
-                  fontFamily: 'Oswald',
+                  fontFamily: 'IslandMoments',
                   fontWeight: FontWeight.bold,
                 ),
               ),
@@ -43,7 +43,7 @@ class _ProfileState extends State<Profile> {
                 widget.name,
                 style: TextStyle(
                   fontSize: 24.0,
-                  color: Color(0xff2596be),
+                  color: Colors.black,
                   fontFamily: 'Oswald',
                 ),
               ),
@@ -51,7 +51,7 @@ class _ProfileState extends State<Profile> {
                 widget.srn,
                 style: TextStyle(
                   fontSize: 24.0,
-                  color: Color(0xff2596be),
+                  color: Colors.black,
                   fontFamily: 'Oswald',
                 ),
               ),
@@ -59,7 +59,7 @@ class _ProfileState extends State<Profile> {
                 widget.phoneNo,
                 style: TextStyle(
                   fontSize: 24.0,
-                  color: Color(0xff2596be),
+                  color: Colors.black,
                   fontFamily: 'Oswald',
                 ),
               ),
